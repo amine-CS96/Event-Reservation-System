@@ -12,7 +12,7 @@ if(i==0)
     tab=malloc(sizeof(event));
 
 tab=realloc(tab,(i+1)*sizeof(event)) ;
-     printf("\n -----------------------------<...(^_^) : Saisir les  informations de nouvel evenement : ...>--------------------------\n");
+     printf("\n ----------------------------<...(^_^) : Saisir les  informations de nouvel evenement : ...>-------------------------\n");
      printf("\n--> Nom de l'evenement : ");
      scanf(" %[^\n]s",&tab[i].nom);
 
