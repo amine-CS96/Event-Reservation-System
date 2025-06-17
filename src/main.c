@@ -30,7 +30,7 @@ printf("------------------------------------------------------------------------
   switch(x){
     case 1:
         tab=cree_Event(tab);
-               printf("-------------<...(^_^) : L'evenement a ete ajoutee avec sucess ...>---------------\n\n");
+               printf("--------------<...(^_^) : L'evenement a ete ajoutee avec sucess ...>---------------\n\n");
        break ;
     case 2:
     tab=reservation_place(tab) ;
