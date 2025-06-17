@@ -1,0 +1,30 @@
+----------------------------<...Les informations de reservateur 1 : ...>-----------------------------
+
+ --> Nom de reservateur  : mina el 
+ --> Nom de l'evenement a reservee  : ev2 
+ --> Code de reservation  : A002 
+ --> Nombre de places a reservees  : 4 
+
+
+------------------------------------------<.......>-------------------------------------------------
+
+----------------------------<...Les informations de reservateur 2 : ...>-----------------------------
+
+ --> Nom de reservateur  : amin gh 
+ --> Nom de l'evenement a reservee  : ev2 
+ --> Code de reservation  : A003 
+ --> Nombre de places a reservees  : 2 
+
+
+------------------------------------------<.......>-------------------------------------------------
+
+----------------------------<...Les informations de reservateur 3 : ...>-----------------------------
+
+ --> Nom de reservateur  : nji 
+ --> Nom de l'evenement a reservee  : ev 
+ --> Code de reservation  : A005 
+ --> Nombre de places a reservees  : 4 
+
+
+------------------------------------------<.......>-------------------------------------------------
+

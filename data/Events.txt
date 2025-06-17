@@ -1,0 +1,18 @@
+----------------------------<...Les informations de l'evenement  1 : ...>-----------------------------
+
+ --> Nom de l'evenement  : ev 
+ --> Date (JJ/MM/AA) : 5/56/2012 
+ --> Nombre de places total a reservees  : 4 
+ --> Nombre de places disponibles  12 : 
+
+------------------------------------------<.......>-------------------------------------------------
+
+----------------------------<...Les informations de l'evenement  2 : ...>-----------------------------
+
+ --> Nom de l'evenement  : ev2 
+ --> Date (JJ/MM/AA) : 5/6/123 
+ --> Nombre de places total a reservees  : 6 
+ --> Nombre de places disponibles  6 : 
+
+------------------------------------------<.......>-------------------------------------------------
+
