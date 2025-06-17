@@ -19,7 +19,6 @@ char id[50];
 int plac_reserv ;
 }admin;
 
-
 extern int i;
 extern int c;
 extern int k;
